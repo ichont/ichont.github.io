@@ -94,3 +94,9 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+# 修改建议
+pages更新有8分钟延迟
+添加ZJ的学术图片
+修改邮箱和各类地址
+上栏试着调整，将关键信息保留在主页即可
+按着zj的修改网站的栏目显示
