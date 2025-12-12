@@ -100,3 +100,9 @@ pages更新有8分钟延迟
 修改邮箱和各类地址
 上栏试着调整，将关键信息保留在主页即可
 按着zj的修改网站的栏目显示
+
+# 修改方法
+主页在_pages/about.md修改即可
+1.上边栏在_data/navigation.yml中修改，然后在pages中添加对应的md文档即可
+2.左边栏在_config.yml中修改
+3.图片放在images文件夹并引用
