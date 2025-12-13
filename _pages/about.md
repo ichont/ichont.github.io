@@ -9,7 +9,7 @@ redirect_from:
 
 I am a researcher in the field of AI. I am currently working together with [Prof. Zhang](http://staff.ustc.edu.cn/~zhangwm/) and [Prof. Zhou](https://faculty.ustc.edu.cn/zhouwenbo/zh_CN/index.htm) from Hefei Key Laboratory of Data Security, University of Science and Technology of China (USTC). Previously, I worked with [Prof. Guo](https://ist.dlmu.edu.cn/info/1287/6768.htm) at [TSMC](http://www.tsmclab.com/team), conducting research in the fields of code intelligence and EDA intelligence in Daliann Maritime University(DLMU). Besides, I had a brief study session with [Prof. Liu](https://gr.xjtu.edu.cn/web/yangliu/home_cn)(XJTU). Currently, my research fields include AI security, Multimodal Large Models, and Deepfakes.
 
-![Research_focus](.\images\Research_focus.png)
+![Research_focus](..\images\Research_focus.png)
 
 **Contact:** [[Github](https://github.com/ichont)] [[Gitee](https://gitee.com/ichont)] [[Huggingface](https://huggingface.co/Ichont)] [[CSDN](https://blog.csdn.net/ichont?type=edu)] [[Zhihu](https://www.zhihu.com/people/ichont)]
 
