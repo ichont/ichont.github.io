@@ -36,7 +36,9 @@ I am a researcher in the field of AI. I am currently working at Anhui Province K
 - 2025, DLMU Top Ten Outstanding Study and Academic Unit
 - 2025, First Prize for Emotional Intelligence Scholarship
 - 2026, Outstanding Graduate of Liaoning Province
+
 ---------------
+
 - 2023, **Second Prize** in the Electronic Design Competition
 - 2023, **Second Prize** of the Global Campus Algorithm Elite Competition
 - 2024, The **National Runner-up** of the Ruikang Robot Developer Competition
