@@ -36,7 +36,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 ## 💻 Internships
 
 - 2025.6-2025.7, Xi'an Jiaotong University, [School of cyber science and engineerning](https://cybersec.xjtu.edu.cn/index.htm) 
-- 2025.10-2026.1, [VRGV](https://www.vrgvtech.com/), LLM and Agent algorithm engineer
+- 2025.10-2026.2, [VRGV](https://www.vrgvtech.com/), LLM and Agent algorithm engineer
 
 ## 🎖Awards & Honors
 
