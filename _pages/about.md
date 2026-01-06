@@ -33,6 +33,11 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 - [FastEasy-DeepResearch: An agent demo](https://github.com/ichont/FastEasy-DeepResearch)
 
+## 💻 Internships
+
+- 2025.6-2025.8, Xi'an Jiaotong University, [School of cyber science and engineerning](https://cybersec.xjtu.edu.cn/index.htm) 
+- 2025.10-2026.1, [VRGV](https://www.vrgvtech.com/), LLM and Agent algorithm engineer
+
 ## 🎖Awards & Honors
 
 - 2023, China Merchants Group First-Class Scholarship
