@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Will Son"
 author_profile: true
 redirect_from: 
   - /about/
