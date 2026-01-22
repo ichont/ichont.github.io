@@ -12,7 +12,8 @@ I am a researcher in the field of AI. I am currently working at Anhui Province K
 ![Research_focus](Research_focus.png)
 
 If you have sufficient computing resources, I look forward to collaborating with you.
-**Contact:** [[Github](https://github.com/ichont)] [[Gitee](https://gitee.com/ichont)] [[Huggingface](https://huggingface.co/Ichont)] [[CSDN](https://blog.csdn.net/ichont?type=edu)] [[Zhihu](https://www.zhihu.com/people/ichont)]
+
+**Platform:** [[Github](https://github.com/ichont)] [[Gitee](https://gitee.com/ichont)] [[Huggingface](https://huggingface.co/Ichont)] [[CSDN](https://blog.csdn.net/ichont?type=edu)] [[Zhihu](https://www.zhihu.com/people/ichont)]
 
 ## 📝Publications
 
