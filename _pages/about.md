@@ -17,7 +17,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 ## 📝Publications
 
-- **Weihao Sun**, Shikai Guo(*), Ning Wang, Hui Li, Qian Ma, Xiaochen Li, He Jiang, Modeling Relational Logic Circuits for And-Inverter Graph Convolutional Network, IEEE Transactions on Computer-Aided Design (TCAD) of Integrated Circuits and Systems. (SCI, **CCFA**）Accept
+- **Weihao Sun**, Shikai Guo(*),Siwen Wang, Qian Ma, Hui Li, Ning Wang, Yongpeng Weng, Modeling Relational Logic Circuits for And-Inverter Graph Convolutional Network, IEEE Transactions on Computer-Aided Design (TCAD) of Integrated Circuits and Systems. (SCI, **CCFA**）[[PDF](https://ieeexplore.ieee.org/document/11300286)]
 
 
 ## 📝Preprint
