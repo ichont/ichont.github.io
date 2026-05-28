@@ -22,7 +22,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 ## 📝Preprint
 
-- **Weihao Sun**, Qiyun Zhao, Chenchen Li(*),Furui Zhan, Confident Learning-based Network for Detecting Bug-Inducing Commits on SZZ with Noisy Labels.
+- **Weihao Sun**, Qiyun Zhao, Chenchen Li(*),Furui Zhan, Confident Learning-based Network for Detecting Bug-Inducing Commits on SZZ with Noisy Labels.[[arxiv](https://arxiv.org/abs/2605.27880)]
 
 ## 🧰Projects
 
