@@ -34,10 +34,16 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 - [FastEasy-DeepResearch: An agent demo](https://github.com/ichont/FastEasy-DeepResearch)
 
+## 🎓 Education
+
+- 2022-2026, Daliann Maritime University, School of Information Science and Technology
+- 2026-2029, University of Science and Technology of China,  School of Cyber Science and Technology
+
 ## 💻 Internships
 
 - 2025.6-2025.7, Xi'an Jiaotong University, [School of cyber science and engineerning](https://cybersec.xjtu.edu.cn/index.htm) 
 - 2025.10-2026.1, [VRGV Tech](https://www.vrgvtech.com/), LLM and Agent algorithm engineer
+
 
 ## 🎖Awards & Honors
 
