@@ -14,6 +14,8 @@ I am a researcher in the field of AI. I am currently working at Anhui Province K
 If you have sufficient computing resources, I look forward to collaborating with you.
 
 **Platform:** [[Github](https://github.com/ichont)] [[Gitee](https://gitee.com/ichont)] [[Huggingface](https://huggingface.co/Ichont)] [[CSDN](https://blog.csdn.net/ichont?type=edu)]
+**QQ:** 1497081944
+
 **Email:** sunweihao@mail.ustc.edu.cn
 
 ## 📝Publications
