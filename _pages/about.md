@@ -53,7 +53,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 - 2023, China Merchants Group First-Class Scholarship
 - 2024, China National Encouragement Scholarship
-- 2025, DLMU Top Ten Outstanding Study and Academic Group
+- 2025, DLMU Top Ten Outstanding Dormitories
 - 2025, First Prize for Emotional Intelligence Scholarship
 - 2026, Outstanding Graduate of Liaoning Province
 
