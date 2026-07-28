@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the field of AI. I am currently working at Anhui Province Key Laboratory of Digital Security, University of Science and Technology of China. Previously, I worked with [Prof. Guo](https://ist.dlmu.edu.cn/info/1287/6768.htm) at [TSMC](http://www.tsmclab.com) Group, conducting research in the fields of code intelligence and EDA intelligence in Daliann Maritime University. Besides, I had a brief study session with [Prof. Liu](https://gr.xjtu.edu.cn/web/yangliu/home_cn)(XJTU). Currently, my research fields include AI security, Multimodal Large Models, and AIGC.
+I am a researcher in the field of AI. I am currently working at Anhui Province Key Laboratory of Digital Security, University of Science and Technology of China. Previously, I worked with [Assoc. Prof. Guo](https://ist.dlmu.edu.cn/info/1287/6768.htm) at [TSMC](http://www.tsmclab.com) Group, conducting research in the fields of code intelligence and EDA intelligence in Daliann Maritime University. Currently, my research fields include AI security, Multimodal Large Models, and AIGC.
 
 If you have sufficient computing resources, I look forward to collaborating with you.
 ![Research_focus](Research_focus.png)
@@ -15,7 +15,6 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 
 **Platform:** [[Github](https://github.com/ichont)] [[Gitee](https://gitee.com/ichont)] [[Huggingface](https://huggingface.co/Ichont)] [[CSDN](https://blog.csdn.net/ichont?type=edu)]
-**QQ:** 1497081944
 
 **Email:** sunweihao@mail.ustc.edu.cn
 
@@ -45,8 +44,8 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 ## 💻 Internships
 
-- 2025.6-2025.7, Xi'an Jiaotong University, [School of cyber science and engineerning](https://cybersec.xjtu.edu.cn/index.htm) 
-- 2025.10-2026.1, [VRGV Tech](https://www.vrgvtech.com/), LLM and Agent algorithm engineer
+- 2025.6-2025.7, Xi'an Jiaotong University, [School of cyber science and engineerning](https://cybersec.xjtu.edu.cn/index.htm), supervised by [Assoc. Prof. Liu](https://gr.xjtu.edu.cn/web/yangliu/home_cn).
+- 2025.10-2026.1, [VRGV Tech](https://www.vrgvtech.com/), LLM and Agent algorithm engineer, supervised by Vice President Chongke Sun.
 
 
 ## 🎖Awards & Honors
@@ -56,7 +55,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 - 2025, DLMU Top Ten Outstanding Dormitories
 - 2025, First Prize for Emotional Intelligence Scholarship
 - 2026, Outstanding Graduate of Liaoning Province
-
+- 2026，First-class Scholarship of University of Science & Technology of China
 ---------------
 
 - 2023, **Second Prize** in the Electronic Design Competition
