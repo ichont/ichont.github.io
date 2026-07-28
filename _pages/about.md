@@ -56,6 +56,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 - 2025, First Prize for Emotional Intelligence Scholarship
 - 2026, Outstanding Graduate of Liaoning Province
 - 2026，First-class Scholarship of University of Science & Technology of China
+
 ---------------
 
 - 2023, **Second Prize** in the Electronic Design Competition
