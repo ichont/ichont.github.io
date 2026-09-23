@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and developer in the field of AI. I am currently working at University of Science and Technology of China, supervised by [Prof. Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/) and [Prof. Han Fang](https://fanghan-ustc.github.io/). Previously, I worked with [Prof. Shikai Guo](https://ist.dlmu.edu.cn/info/1287/6768.htm) at [TSMC](http://www.tsmclab.com) Group, conducting research in the fields of code intelligence and EDA intelligence in Daliann Maritime University. Currently, my research fields include AI Security, Agent safety, LLM watermark, and AIGC.
+I am a researcher and developer in the field of AI. I am currently working at University of Science and Technology of China, supervised by [Prof. Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/) and [Prof. Han Fang](https://fanghan-ustc.github.io/). Previously, I worked with [Prof. Shikai Guo](https://ist.dlmu.edu.cn/info/1287/6768.htm) at [TSMC](http://www.tsmclab.com) Group, conducting research in the fields of code intelligence and EDA intelligence in Daliann Maritime University. Currently, my research fields include Agentic AI, AI safety, MLLM security, and AIGC.
 If you have sufficient computing resources, I look forward to collaborating with you.
 ![Research_focus](Research_focus.png)
 
