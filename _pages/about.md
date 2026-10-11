@@ -24,7 +24,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 ## 📝Preprint
 
-- **Weihao Sun**, Wenjun Tang(*), Xiuwei Shang(*), Xinnian Wang, Qiyun Zhao, Han Fang, Weiming Zhang, Confident Learning for Root-Cause Lines Identification in Tracing Bug-Inducing Commits.
+- **Weihao Sun**, Wenjun Tang<sup>*</sup>, Xiuwei Shang<sup>*</sup>, Xinnian Wang, Qiyun Zhao, Han Fang, Weiming Zhang, Confident Learning for Root-Cause Lines Identification in Tracing Bug-Inducing Commits.
 
 ## 🧰Projects
 
