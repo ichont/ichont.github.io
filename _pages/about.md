@@ -24,7 +24,7 @@ If you have sufficient computing resources, I look forward to collaborating with
 
 ## 📝Preprint
 
-- **Weihao Sun**, Qiyun Zhao, Chenchen Li(*),Furui Zhan, Confident Learning-based Network for Detecting Bug-Inducing Commits on SZZ with Noisy Labels  [[arxiv](https://arxiv.org/abs/2605.27880)]
+- **Weihao Sun**, Wenjun Tang(*), Xiuwei Shang(*), Xinnian Wang, Qiyun Zhao, Han Fang, Weiming Zhang, Confident Learning for Root-Cause Lines Identification in Tracing Bug-Inducing Commits.
 
 ## 🧰Projects
 
